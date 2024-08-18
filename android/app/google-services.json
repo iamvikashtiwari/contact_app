@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "489261314104",
+    "project_id": "contacts-app-70c22",
+    "storage_bucket": "contacts-app-70c22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489261314104:android:3733c72051329d4ae1f6cd",
+        "android_client_info": {
+          "package_name": "com.example.contacts_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489261314104-mm1490pdlfqlhnb4i98snresmig8t1fm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.contacts_app",
+            "certificate_hash": "e8a5e8866276ae42744a7470bdd4033cbc2ea930"
+          }
+        },
+        {
+          "client_id": "489261314104-v6m065og5c9p4tvk5hqsc8vpslttjfgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKzOVnRtbEmHE3PCIwaBuyZ8C6bclmWwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489261314104-v6m065og5c9p4tvk5hqsc8vpslttjfgq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "489261314104-eisgg4m42mil1jvnufpjjomb5o6pgk4c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.contactsApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
